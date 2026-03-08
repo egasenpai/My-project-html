@@ -1,0 +1,11 @@
+{
+  "name": "my-html-project",
+  "version": "1.0.0",
+  "description": "My HTML Project",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
